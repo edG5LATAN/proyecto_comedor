@@ -1,6 +1,6 @@
-# Proyecto Comedor
-
 # proyecto de Comedor COCO
+![Comedor](https://i.pinimg.com/736x/ed/ca/5b/edca5b1ad33e8e15329d709115b7fb6c.jpg)
+
 ![alura-latan](https://github.com/edG5LATAN/EncriptadorG5/assets/136633393/96afbeb0-fd77-429e-b48b-b46b4ccd1fbb)
 
 # <Your-Project-Title>
@@ -11,6 +11,7 @@ Proyecto de comedor coco con las opciones de compra y de suma de pedidos con las
 - proyecto desarrollado con ayuda de Alura lata y Oracle
 - primero pasos de programacion
 - [https://youtu.be/RS3zDOXRXd8](https://www.youtube.com/watch?v=SZdvNte-7wQ)   video de proyecto
+- proyecto desplegado https://edg5latan.github.io/proyecto_comedor/index.html
 
 
 ## Tecnologias usadas (opcional)
